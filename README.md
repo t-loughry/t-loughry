@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @t-loughry
+- 🌱 I’m currently learning Web development
