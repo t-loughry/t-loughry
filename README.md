@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @t-loughry
-- 🌱 I’m currently learning Web development
+- 🌱 I am currently working as a systems auditor at PwC Argentina and, in turn, deepening my knowledge in programming, both web and mobile.
